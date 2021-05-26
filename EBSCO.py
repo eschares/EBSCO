@@ -18,11 +18,15 @@ streamlit_analytics.start_tracking()
 st.image('EBSCO_logo.png')
 st.sidebar.write("*Summer 2021*")
 
+with st.beta_expander("How to use:"):
+    st.write("By default, a fake dataset is preloaded since this has to be deployed publicly.")
+    st.write("To analyze the actual data, login to Box, download the file at https://iastate.box.com/s/7y5hea3rzkfvihvtquh3rnv5m5oofg4n, then upload it using the button in left sidebar")
+
+
 
 #Initialize with a hardcoded dataset
 file = filename = "EBSCO 2022 renewal - No_T&F_or_SAGE_orNA0usage - test.csv"
 #file = filename = "EBSCO 2022 renewal - No_T&F_or_SAGE_orNA0usage.csv"
-#file = filename = "https://iastate.box.com/s/kukclzhbye8vrbzoc5sq8mih6hpnt2b1"
 
 uploaded_file = st.sidebar.file_uploader('To analyze the actual data, download file at https://iastate.box.com/s/7y5hea3rzkfvihvtquh3rnv5m5oofg4n and upload here to analyze:', type='csv')
 if uploaded_file is not None:
