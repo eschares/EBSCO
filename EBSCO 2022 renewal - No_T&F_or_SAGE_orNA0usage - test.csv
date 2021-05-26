@@ -1,0 +1,9 @@
+Title Name,Decision,Notes,Format,Start Date,Expiration Date,Quantity,Term,New/Renewal,Invoice Date,,Total Cost,Currency,Purchase Order Number,Fund Code,Publisher Identification,Publisher Name,Renewal Date,Subscriber Code,Package or package title,1figr Tier,CPU_2020,2019 total item requests (COUNTER 4),2020 total item requests (equivalent to COUNTER 4 for 2019),"2020 unique item requests (actual uses, future metric going forward)",Usage Stats Notes
+A,,,Online,1/1/2021,12/31/2021,1,1 Year(s),Renewal,11/4/2020,,21980,USD,,,1686798,,,AA,no,0,211.3461538,79,104,104,Searches_Regular
+B,,,Online,1/1/2021,12/31/2021,1,1 Year(s),Renewal,11/4/2020,,21020,USD,,,2424158,,,AA,yes,0,5.324214792,6680,3948,3553,totals imported from Packages tab
+C,,,Online,1/1/2021,12/31/2021,1,1 Year(s),Renewal,11/4/2020,,19525,USD,,,783313,,,AA,yes,0,2.446435284,24387,7981,5641,
+D,,,Online,1/1/2021,12/31/2021,1,1 Year(s),Renewal,11/4/2020,,13696,USD,,,577958,,,AA,yes,0,12.50776256,1632,1095,1046,
+E,,,"Database, A & I",1/1/2021,12/31/2021,1,1 Year(s),Renewal,11/4/2020,,12407,USD,,,2200007447,,,AA,yes,0,7.907584449,1522,1569,837,
+F,,,Online,1/1/2021,12/31/2021,1,1 Year(s),Renewal,11/4/2020,,12000,USD,,,O006351,,,AA,yes,0,7.8125,2695,1536,1121,totals imported from Packages tab
+G,,,Online,1/1/2021,12/31/2021,1,1 Year(s),Renewal,11/4/2020,,11090,USD,,,15194/25345,,,AA,no,6,151.9178082,144,73,72,
+H,,,Online,1/1/2021,12/31/2021,1,1 Year(s),Renewal,11/4/2020,,10550,USD,,,1.00E+19,,,AA,no,0,4.953051643,5191,2130,1748,COUNTER 5 TR_B1 Total Item Request
