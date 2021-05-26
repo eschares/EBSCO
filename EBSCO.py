@@ -282,22 +282,22 @@ st.altair_chart(CPU_2020_with_1figrTier)#, use_container_width=True)
 
 streamlit_analytics.stop_tracking(unsafe_password="testtesttest")
 
-# Analytics code
-components.html(
-    """
-<html>
-<body>
-<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101315881);</script>
-<script async src="//static.getclicky.com/js"></script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101315881ns.gif" /></p></noscript>
-</body>
-</html>
-    """
-)
+# # Analytics code
+# components.html(
+#     """
+# <html>
+# <body>
+# <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101315881);</script>
+# <script async src="//static.getclicky.com/js"></script>
+# <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101315881ns.gif" /></p></noscript>
+# </body>
+# </html>
+#     """
+# )
 
 
-components.html(
-"""
-<a title="Web Analytics" href="https://statcounter.com/" target="_blank"><img src="https://c.statcounter.com/12526873/0/c525cd17/1/" alt="Web Analytics" ></a>
-"""
-)
+# components.html(
+# """
+# <a title="Web Analytics" href="https://statcounter.com/" target="_blank"><img src="https://c.statcounter.com/12526873/0/c525cd17/1/" alt="Web Analytics" ></a>
+# """
+# )
